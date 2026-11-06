@@ -1,0 +1,29 @@
+C:\Users\kolad\Desktop\csacad\Math game\bin\Debug\net10.0\Math game.exe
+C:\Users\kolad\Desktop\csacad\Math game\bin\Debug\net10.0\Math game.deps.json
+C:\Users\kolad\Desktop\csacad\Math game\bin\Debug\net10.0\Math game.runtimeconfig.json
+C:\Users\kolad\Desktop\csacad\Math game\bin\Debug\net10.0\Math game.dll
+C:\Users\kolad\Desktop\csacad\Math game\bin\Debug\net10.0\Math game.pdb
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\Math game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\Math game.AssemblyInfoInputs.cache
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\Math game.AssemblyInfo.cs
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\Math game.csproj.CoreCompileInputs.cache
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\Math game.dll
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\refint\Math game.dll
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\Math game.pdb
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\Math game.genruntimeconfig.cache
+C:\Users\kolad\Desktop\csacad\Math game\obj\Debug\net10.0\ref\Math game.dll
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\bin\Debug\net10.0\Math game.exe
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\bin\Debug\net10.0\Math game.deps.json
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\bin\Debug\net10.0\Math game.runtimeconfig.json
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\bin\Debug\net10.0\Math game.dll
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\bin\Debug\net10.0\Math game.pdb
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\Math game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\Math game.AssemblyInfoInputs.cache
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\Math game.AssemblyInfo.cs
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\Math game.csproj.CoreCompileInputs.cache
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\Math game.dll
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\refint\Math game.dll
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\Math game.pdb
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\Math game.genruntimeconfig.cache
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\ref\Math game.dll
+C:\Users\Kolade\Desktop\New folder\csacad\Math game\obj\Debug\net10.0\Math game.sourcelink.json
